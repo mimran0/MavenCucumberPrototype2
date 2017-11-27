@@ -1,0 +1,5 @@
+package com.cucumber.MavenCucumberPrototype;
+
+public class Steps {
+
+}

@@ -1,0 +1,6 @@
+Feature: walmart test sets.
+Scenario: Users are able to find store map with nearby walmart stores in Google Chrome Browser
+    Then Close All Browsers
+    Given Open Browser "CHROME"
+    Given Looks for walmart near By
+    Then Close all Open Browsers
